@@ -1,5 +1,5 @@
 body{
-	background-color: grey;
+	background-color: rgb(134, 245, 112);
 }
 
 .weather-container{
@@ -41,7 +41,7 @@ body{
 
  }
  .credits{
- 	color: white;
+ 	color: rgb(99, 41, 41);
  	font-size: 20px;
  	position: fixed;
  	top:70%;
