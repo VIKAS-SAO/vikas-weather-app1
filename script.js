@@ -4,7 +4,7 @@ function getCity(){
     console.log(city);
 
 
-    $.getJSON("http://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=1a186e548f790f709f27899950b68013",
+    $.getJSON("https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=1a186e548f790f709f27899950b68013",
     function(data){
     console.log(data); 
     
